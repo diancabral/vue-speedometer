@@ -1,4 +1,4 @@
-# svg2
+# vue-speedometer
 
 ## Project setup
 ```
